@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.body{
+    font-family: "Open Sans", sans-serif;
+}
+.uv{
+    position: relative;
+    left: 205px;
+    top: 10px;
+}
+.lk{
+    position: relative;
+    left: 183px;
+    top: 26px;
+}
+/* .uv{
+    position: relative;
+    width:"100"; 
+    height:"116";
+} */
+.main{
+    width: 950px;
+    height: 601px;
+}
+.filter{
+    background-color: rgba(255, 255, 255, 0.532);
+    backdrop-filter: blur(20px);
+}
+.bg{
+    background-color:#f4f6f6;
+    margin:60px;
+}
+.dil{
+    position: relative;
+    top: 50px;
+    left: 70px;
+}
+.rkl{
+    position: relative;
+    top:102px;
+}
+/* .rkz{
+    position: relative;
+    right:60px;
+}
+.rky{
+    position: relative;
+   right: 60px;
+} */
+/* .ham{
+    position: relative;
+    left:130px;
+} */
+ .il{
+    background-color: #f4f6f6;
+    width: 312px;
+    height: 272px;
+ }
+ .xc{
+    background-color: #f4f6f6;
+    width: 312px;
+    height: 272px;
+    margin-top: 120px;
+ }
+ .ss{
+    position: relative;
+    top: 2px;
+    right: 9px;
+ }
+ .ssm{
+    position: relative;
+    bottom: 122px;
+    right: 9px;
+ }
+.dig{
+    background-color: #f4f6f6;
+
+}
+/* .hh{
+    margin-top: 100px;
+} */
+.nn{
+    position: relative;
+    top:-145px;
+    right:0px;
+    left:0px;
+
+}
+.jk{
+    margin-top84px;
+}
+.sk{
+    margin-top:57px;
+}
+.io{
+    position: relative;
+    top: 123px;
+    left: 102px;
+}
+.in{
+    position: relative;
+    top: 303px;
+    left: 100px;
+}
+.lis{
+    background-color: #244D4D;
+}
